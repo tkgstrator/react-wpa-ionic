@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "react-ionic-pwa-template",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
